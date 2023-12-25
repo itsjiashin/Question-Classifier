@@ -1,5 +1,5 @@
 # Question-Classifier
-Various deep learning approaches such as DNN, CNN, etc were used to classify questions from the dataset used into 6 coarse question categories, and these include:
+Various deep learning approaches such as CNNs, RNNs, etc were used to classify questions from the dataset used into 6 coarse question categories, and these include:
 - abbreviation (ABBR),
 - entity (ENTY),
 - description (DESC),
